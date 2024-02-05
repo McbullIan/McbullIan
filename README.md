@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McbullIan
-- 👀 I’m interested in Sofware engineering and puppies. I love puppies :-D
+- 👀 I’m interested in Sofware engineering
 - 💞️ I’m looking to collaborate on ...
 
 <!---
